@@ -15,7 +15,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - [Author](#author)
 
 ## Overview
-This is a mini-project made from Frontend Mentor instructions (See README_Instructions and style-guide.md).
+This is a mini-project made from Frontend Mentor instructions (See [README_Instructions](/README_Instructions.md) and [style-guide.md](/style-guide.md)).
 
 ### The challenge
 
