@@ -28,8 +28,6 @@ Users should be able to:
 
 ![App Screenshot](/design/Random-advice-screenshot.png?raw=true "Optional Title")
 
-[//]: <> ex ![](./screenshot.jpg)
-
 ### Links
 
 - Challenge Link: [Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
