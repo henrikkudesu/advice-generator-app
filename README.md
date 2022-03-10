@@ -56,6 +56,6 @@ I will search for some solution for this so you don't have to disable the cache 
 ## Author
 
 - Website - [Leonardo Henrique](https://henrikkudesu.github.io)
-- Frontend Mentor - [@henrikku](https://www.frontendmentor.io/profile/henrikku)
+- Frontend Mentor - [@henrikku](https://www.frontendmentor.io/profile/henrikkudesu)
 - Twitter - [@henrikkudesu](https://twitter.com/henrikkudesu)
 
