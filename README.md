@@ -26,7 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-[//]: <> There goes screenshot.
+![App Screenshot](/design/Random-advice-screenshot.png?raw=true "Optional Title")
+
 [//]: <> ex ![](./screenshot.jpg)
 
 ### Links
